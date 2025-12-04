@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 # Foundry Cross Chain Rebase Token
 
 This is a section of the Cyfrin Foundry Solidity course.
